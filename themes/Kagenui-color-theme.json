@@ -253,7 +253,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#b8b8c8"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -663,7 +663,7 @@
 				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
-				"foreground": "#b8b8c8"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -821,7 +821,7 @@
 				"punctuation.section.class.end"
 			],
 			"settings": {
-				"foreground": "#b8b8c8"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -849,7 +849,7 @@
 				"markup.table",
 			],
 			"settings": {
-				"foreground": "#b8b8c8"
+				"foreground": "#ffffff"
 			}
 		}
 	]
